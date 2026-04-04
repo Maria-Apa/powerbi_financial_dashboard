@@ -22,7 +22,9 @@ Para abrir o projeto no Power BI corretamente, siga os passos abaixo:
 
 **Baixe o arquivo:**
 
-- dashboard_financial_sample.pbix
+```
+dashboard_financial_sample.pbix
+```
 
 E abra no Power BI Desktop.
 
