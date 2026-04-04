@@ -12,7 +12,7 @@ Arquivos complementares (imagens e vídeos do dashboard)
 Documentação do projeto
 
 ## 📁 Estrutura do Repositório
-/
+``` 
 ├── Documents
 │   ├── Financial Sample.xlsx
 │   └── Readme
@@ -23,7 +23,7 @@ Documentação do projeto
 │   └── images_video
 │
 └── Readme (este arquivo principal)
-
+```
 ## 📘 Sobre o Dataset
 
 O dataset Financial Sample é um conjunto de dados fictícios fornecido pela Microsoft para fins educacionais.
@@ -43,18 +43,22 @@ Esses dados foram utilizados para criar visualizações analíticas e explorar m
 
 O arquivo principal do projeto é:
 
+```
 dashboard_financial_sample.pbix
+```
 
 Ele contém:
 
-Gráficos de desempenho financeiro
-KPIs
-Análises por país, segmento e produto
-Visualizações dinâmicas e interativas
+- Gráficos de desempenho financeiro
+- KPIs
+- Análises por país, segmento e produto
+- Visualizações dinâmicas e interativas
 
 Imagens e vídeos de demonstração estão disponíveis na pasta:
 
+```
 Project/images_video
+```
 
 ## 🛠 Tecnologias utilizadas
 
