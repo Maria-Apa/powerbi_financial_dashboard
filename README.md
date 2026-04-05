@@ -20,7 +20,7 @@ Documentação do projeto
 ├── Project
 │   ├── Readme
 │   ├── dashboard_financial_sample.pbix
-│   └── images_video.md
+│   └── images_video
 │
 └── Readme (este arquivo principal)
 ```
