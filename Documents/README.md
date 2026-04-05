@@ -41,5 +41,5 @@ Opção 2 – Usar o arquivo deste repositório
 
 **Vídeo do passo a passo:**
 
-
+https://drive.google.com/file/d/1-dNm_-2jFScUEeqL4AY25INTIf7tGMqr/view?usp=drive_link
 
