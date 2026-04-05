@@ -28,7 +28,7 @@ Opção 1 – Usar o Financial Sample diretamente pelo Power BI
 
 **Vídeo do passo a passo:**
 
-
+https://drive.google.com/file/d/1dmCeIrrdGgbcPxbgycDcJ9xc9ObmLkKq/view?usp=drive_link
 
 ---
 Opção 2 – Usar o arquivo deste repositório
