@@ -21,4 +21,4 @@
 
 > Clique aqui para visualizar o video do projeto.
 
-https://drive.google.com/file/d/1wZlRtuW7rhlUnVCBwMLcK3bqIQxxYmNZ/view?usp=drive_link
+https://drive.google.com/file/d/1pGrxnE1DMZN-0nmeKRlNVykp2QrxlVTv/view?usp=drive_link
